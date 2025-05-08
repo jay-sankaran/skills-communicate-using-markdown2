@@ -4,3 +4,7 @@
 
 
 This is commit message
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Logo](https://1000logos.net/github-logo/)
